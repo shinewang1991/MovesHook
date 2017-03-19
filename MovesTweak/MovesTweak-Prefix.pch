@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MovesTweak' target in the 'MovesTweak' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
